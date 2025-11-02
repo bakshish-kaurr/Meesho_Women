@@ -1,0 +1,73 @@
+Sr_No,Category,Product_ID,Product_Name,Description,Price,Image
+1,Ethnic Wear,sr001,Women Art Printed Saree,Saree fabric: Georgette;Pattern: Printed;Blouse fabric: Georgette;Blouse: Running blouse,486,sr001.jpg
+2,Ethnic Wear,sr002,Aagam Sensational Saree,Saree fabric: Satin silk;Pattern: Solid;Blouse fabric: Art silk;Blouse: Printed,499,sr002.jpg
+3,Ethnic Wear,sr003,Banita Refined Saree,Saree fabric: Georgette; Pattern: Striped;Blouse fabric: Dupion silk;Blouse: Solid,303,sr003.jpg
+4,Ethnic Wear,sr004,Festive Wear Satin Saree,Saree fabric: Satin silk;Pattern: Zari woven;Blouse fabric: Satin;Blouse: Self design,414,sr004.jpg
+5,Ethnic Wear,sr005,Marble Wine Saree,Saree fabric: Net;Pattern: Solid;Blouse fabric: Net;Blouse: Running blouse,268,sr005.jpg
+6,Ethnic Wear,sr006,Flower Net Saree,Saree fabric: Net;Pattern: Printed;Blouse fabric: Dupion silk;Blouse: Solid,304,sr006.jpg
+7,Ethnic Wear,sr007,Partywear Sequence Lehnga ,Bottomwear fabric: Satin;Pattern: Embroidered;Type: Unstitched;Dupatta pattern: Embroidered,620,sr007.jpg
+8,Ethnic Wear,sr008,Organza Floral Lehnga,Bottomwear fabric: Soft silk;Pattern: Floral;Type: Semi-stiched;Dupatta pattern: Floral,831,sr008.jpg
+9,Ethnic Wear,sr009,Coding Work Lehnga,Bottomwear fabric: Georgette;Pattern: Solid;Type: Unstitched;Dupatta pattern: Floral,942,sr009.jpg
+10,Ethnic Wear,sr010,Digital Printed Lehnga,Bottomwear fabric: Soft silk;Pattern: Micro;Type: Stitched;Dupatta pattern: Ethnic motif,714,sr010.jpg
+11,Ethnic Wear,sr011,Fabulous Women Lehnga,Bottomwear fabric: Silk blend;Pattern: Ruffle;Type: Stitched;Dupatta pattern: Embroidered,413,sr011.jpg
+12,Ethnic Wear,sr012,Mirror Embroidery Lehnga,Bottomwear fabric: Silk blend;Pattern: Applique;Type: Semi-stiched;Dupatta pattern: Checked,865,sr012.jpg
+13,Western Wear,wr001,Women Two-piece Set,"Fabric: Poly blend;Sleeve length: Short sleeves;Pattern: Self-design;Size: XS,S,M,L,XL,XXL",392,wr001.jpg
+14,Western Wear,wr002,Women Fashionable Dress,"Fabric: Lycra;Sleeve length: Half sleeves;Pattern: Solid;Size: S,M,L,XL",292,wr002.jpg
+15,Western Wear,wr003,Comfy Sensational Dress,"Fabric: Crepe;Sleeve length: Sleeveless;Pattern: Solid;Size: S,M,L,XXL",285,wr003.jpg
+16,Western Wear,wr004,V-neck Pink Gown,"Fabric: Georgette;Sleeve length: Three-quarter sleeves;Pattern: Dyed;Size: S,M,L,XL,XXL",449,wr004.jpg
+17,Western Wear,wr005,Dazeel Women Wrap Dress,"Fabric: Lycra;Sleeve length: Long sleeves;Pattern: Solid;Size: S,M,L,XL",367,wr005.jpg
+18,Western Wear,wr006,Chicken Kadhai Middi,"Fabric: Cotton cambric;Sleeve length: Long sleeves;Pattern: Embellished;Size: ,S,M,L",591,wr006.jpg
+19,Western Wear,wr007,Stylish One Piece Dress,"Fabric: Crepe;Sleeve length: Short sleeves;Pattern: Printed;Size: S,M,L,XL,XXL",244,wr007.jpg
+20,Western Wear,wr008,Partywear Printed Dress,"Fabric: Crepe;Sleeve length: Long sleeves;Pattern: Printed;Size: M,L,XL",354,wr008.jpg
+21,Western Wear,wr009,Casual A-line Middi,"Fabric: Crepe;Sleeve length: Three-quarter sleeves;Pattern: Striped;Size: S,M,L,XL,XXL",228,wr009.jpg
+22,Western Wear,wr010,Fancy Rose Dress,"Fabric: Polyester;Sleeve length: Sleeveless;Pattern: Solid;Size: S,M",489,wr010.jpg
+23,Western Wear,wr011,Stylish Feminine Dress,"Fabric: Crepe;Sleeve length: Three-quarter sleeves;Pattern: Printed;Size: M,L,XL",262,wr011.jpg
+24,Western Wear,wr012,White Chicken Style Dress,"Fabric: Cotton cambric;Sleeve length: Long sleeves;Pattern: Embroidered;Size: S,M,L",477,wr012.jpg
+25,Kurta Sets,ks001,Stylish Maroon Kurta Set,Kurta fabric: Cotton;Bottomwear fabric: Cotton;Sleeve length: Three-quarter;Pattern: Printed,464,ks001.jpg
+26,Kurta Sets,ks002,Aishani Pretty Kurta Set,Kurta fabric: Silk;Bottomwear fabric: Cotton;Sleeve length: Half sleeves;Pattern: Floral,482,ks002.jpg
+27,Kurta Sets,ks003,Pakistani Wedding Suit,Kurta fabric: Georgette;Bottomwear fabric: Shantoon;Sleeve length: Full sleeves;Pattern:Embroidered,1589,ks003.jpg
+28,Kurta Sets,ks004,Stylish Grey Suit,Kurta fabric: Net;Bottomwear fabric: Shantoon;Sleeve length: Full sleeves;Pattern:Embroidered,1630,ks004.jpg
+29,Kurta Sets,ks005,Pretty Pink Kurta Set,Kurta fabric: Georgette;Bottomwear fabric: Shantoon;Sleeve length: Umbrella sleeves;Pattern:Embroidered,1751,ks005.jpg
+30,Kurta Sets,ks006,Fancy Jacquard Dress,Kurta fabric: Georgette;Bottomwear fabric: Taffeta silk;Sleeve length: Sleeveless;Pattern:Painted,404,ks006.jpg
+31,Kurta Sets,ks007,Alluring White Kurta Set,Kurta fabric: Georgette;Bottomwear fabric: Georgette;Sleeve length: Long sleeves;Pattern:Embroidered,1128,ks007.jpg
+32,Kurta Sets,ks008,Women Casual Wear,Kurta fabric: Cotton;Bottomwear fabric: Cotton;Sleeve length: Three-quarter sleeves;Pattern:Printed,620,ks008.jpg
+33,Kurta Sets,ks009,Cotton Blend Kurta Set,Kurta fabric: Cotton blend;Bottomwear fabric: Cotton;Sleeve length: Three-quarter sleeves;Pattern:Printed,403,ks009.jpg
+34,Kurta Sets,ks010,Stylish Ravishing Women Suit,Kurta fabric: Georgette;Bottomwear fabric: Georgetete;Sleeve length: Sleeveless;Pattern: Solid,780,ks010.jpg
+35,Kurta Sets,ks011,Designer Party Wear Suit,Kurta fabric: Georgette;Bottomwear fabric: Cotton;Sleeve length: Three-quarter sleeves;Pattern:Embroidered,1374,ks011.jpg
+36,Kurta Sets,ks012,Comfortable Daily Wear,Kurta fabric: Art silk;Bottomwear fabric: Art silk;Sleeve length: Long sleeves;Pattern:Printed,1212,ks012.jpg
+37,Tops & Tunics,tp001,Jacket Plus Crop Top,"Fabric: Crepe;Sleeve length: Three-quarter sleeves;Pattern: Solid;Size: S,M",270,tp001.jpg
+38,Tops & Tunics,tp002,Yellow Bandhej Top,"Fabric: Rayon;Sleeve length: Sleeveless;Pattern: Printed;Size: XS,S,M,L,XL,XXL",203,tp002.jpg
+39,Tops & Tunics,tp003,Western Georgette Top,"Fabric: Georgette;Sleeve length: Long sleeves;Pattern: Solid;Size: XS,S,M,L",202,tp003.jpg
+40,Tops & Tunics,tp004,Regular Fit Top,"Fabric: Georgette;Sleeve length: Short sleeves;Pattern: Solid;Size: S,M,L,XL",192,tp004.jpg
+41,Tops & Tunics,tp005,Trendy Fashionable Top,"Fabric: Lycra;Sleeve length: Short sleeves;Pattern: Solid;Size: XS,S,M,L",181,tp005.jpg
+42,Tops & Tunics,tp006,Bell Sleeves Rainbow Top,"Fabric: Georgette;Sleeve length: Three-quarter sleeves;Pattern: Rainbow;Size: S,M,L,XL",295,tp006.jpg
+43,Tops & Tunics,tp007,Checkered Square Neck Top,"Fabric: Cotton;Sleeve length: Short sleeves;Pattern: Checked;Size: S,M,L,XL,XXL",300,tp007.jpg
+44,Tops & Tunics,tp008,Casual Sleeveless Top,"Fabric: Georgette;Sleeve length: Sleeveless;Pattern: Solid;Size: S,M,L,XL",267,tp008.jpg
+45,Tops & Tunics,tp009,Ravishing White Crop Top,"Fabric: Crepe;Sleeve length: Short sleeves;Pattern: Floral;Size: XS,M,L,XL",225,tp009.jpg
+46,Tops & Tunics,tp010,Puff Sleeves Peplum Top,"Fabric: Polyester;Sleeve length: Three-quarter sleeves;Pattern: Solid;Size: S,M,L,XL",175,tp010.jpg
+47,Tops & Tunics,tp011,Casual Slub Cotton Top,"Fabric: Poly crepe;Sleeve length: Short sleeves;Pattern: Solid;Size: S,M,L,XL",216,tp011.jpg
+48,Tops & Tunics,tp012,Trendy Flared Top,"Fabric: Poly crepe;Sleeve length: Short sleeves;Pattern: Solid;Size: S,M,L,XL",254,tp012.jpg
+49,Jeans & Trousers,jt001,Fancy Sensational Trouser,"Fabric: Polyester;Pattern: Solid;Type: Trouser;Size:28,30,32,34,36,38",265,jt001.jpg
+50,Jeans & Trousers,jt002,Stretchable Women's Capree,"Fabric: Lycra;Pattern: Solid;Type: Capree;Size:28,30,32,34,36,38,40",248,jt002.jpg
+51,Jeans & Trousers,jt003,Light Blue Jogger,"Fabric: Denim;Pattern: Solid;Type: Jean;Size:32,34,36",529,jt003.jpg
+52,Jeans & Trousers,jt004,Purple Cargo Trouser,"Fabric: Poly blend;Pattern: Solid;Type: Trouser;Size:28,30,32,34",399,jt004.jpg
+53,Jeans & Trousers,jt005,Feminine Women Trouser,"Fabric: Cotton blend;Pattern: Checked;Type: Trouser;Size:28,30,32,34,36,38,40",172,jt005.jpg
+54,Jeans & Trousers,jt006,Knee Cut Denim,"Fabric: Polyester;Pattern: Solid;Type: Jean;Size:32,34,36,38",401,jt006.jpg
+55,Jeans & Trousers,jt007,Black Cargo Jean,"Fabric: Poly blend;Pattern: Solid;Type: Jean;Size:28,30,32",408,jt007.jpg
+56,Jeans & Trousers,jt008,Stylish Bell Bottom Jean,"Fabric: Denim;Pattern: Solid;Type: Jean;Size:28,30,32,34,36",188,jt008.jpg
+57,Jeans & Trousers,jt009,DKG Denim Skirt,"Fabric: Denim;Pattern: Solid;Type: Skirt;Size:28,30",277,jt009.jpg
+58,Jeans & Trousers,jt010,Comfy Gym Wear,"Fabric: Polyester;Pattern: Solid;Type: Trouser;Size:28,30,32,34,36,38,40",329,jt010.jpg
+59,Jeans & Trousers,jt011,Black Cotton Palazzo,"Fabric: Cotton;Pattern: Solid;Type: Palazzo;Size:34,36,38,40",254,jt011.jpg
+60,Jeans & Trousers,jt012,Wide Leg Cargo Jean,"Fabric: Poly blend;Pattern: Solid;Type: Jean;Size:28,30,32,34",692,jt012.jpg
+61,Co-ord Sets,cr001,Lavender Co-ord Set,"Fabric: Crepe;Sleeve length: Shoulder straps;Pattern: Self-design;Size: XS,S,M,L,XL",460,cr001.jpg
+62,Co-ord Sets,cr002,Classy Co-ord Set,"Fabric: Polyester;Sleeve length: Long sleeves;Pattern: Solid;Size: L,XL,XXL",576,cr002.jpg
+63,Co-ord Sets,cr003,Black Co-ord Set,"Fabric: Rayon;Sleeve length: Half sleeves;Pattern: Painted;Size: S,M,L,XL",971,cr003.jpg
+64,Co-ord Sets,cr004,Muticolor Printed Co-ord Set,"Fabric: Crepe;Sleeve length: Short sleeves;Pattern: Printed;Size: XS,S,M,L,XL,XXL",358,cr004.jpg
+65,Co-ord Sets,cr005,Cotton Printed Co-ord Set,"Fabric: Cotton cambric;Sleeve length: Three-quarter sleeves;Pattern: Printed;Size: XS,S,M",487,cr005.jpg
+66,Co-ord Sets,cr006,Effortless Chic Co-ord Set,"Fabric: Crepe;Sleeve length: Three-quarter sleeves;Pattern: Striped;Size: XS,S,M,L,XL",363,cr006.jpg
+67,Co-ord Sets,cr007,Stylish Co-ord Set,"Fabric: Crepe;Sleeve length: Long sleeves;Pattern: Floral;Size: S,M,L,XL",542,cr007.jpg
+68,Co-ord Sets,cr008,Jaipuri Co-ord Set,"Fabric: Cotton blend;Sleeve length: Half sleeves;Pattern: Printed;Size: XS,S,M,L",821,cr008.jpg
+69,Co-ord Sets,cr009,Blazer Co-ord Set,"Fabric: Polyester;Sleeve length: Long sleeves;Pattern: Solid;Size: S,M,L",679,cr009.jpg
+70,Co-ord Sets,cr010,Floral Co-ord Set,"Fabric: Rayon;Sleeve length: Three-quarter sleeves;Pattern: Floral;Size: S,M,L,XL",770,cr010.jpg
+71,Co-ord Sets,cr011,Feminine Co-ord Set,"Fabric: Georgette;Sleeve length: Short sleeves;Pattern: Self-design;Size: L,XL",558,cr011.jpg
+72,Co-ord Sets,cr012,Denim Co-ord Set,"Fabric: Denim;Sleeve length: Three-quarter sleeves;Pattern: striped;Size: S,M",443,cr012.jpg
